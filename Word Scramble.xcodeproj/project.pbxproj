@@ -12,6 +12,7 @@
 		83ED379F1F17B2EF004DB8C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83ED379D1F17B2EF004DB8C1 /* Main.storyboard */; };
 		83ED37A11F17B2EF004DB8C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83ED37A01F17B2EF004DB8C1 /* Assets.xcassets */; };
 		83ED37A41F17B2EF004DB8C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83ED37A21F17B2EF004DB8C1 /* LaunchScreen.storyboard */; };
+		83ED37AC1F18E7A7004DB8C1 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 83ED37AB1F18E7A7004DB8C1 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		83ED37A01F17B2EF004DB8C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83ED37A31F17B2EF004DB8C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83ED37A51F17B2EF004DB8C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83ED37AB1F18E7A7004DB8C1 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				83ED37A01F17B2EF004DB8C1 /* Assets.xcassets */,
 				83ED37A21F17B2EF004DB8C1 /* LaunchScreen.storyboard */,
 				83ED37A51F17B2EF004DB8C1 /* Info.plist */,
+				83ED37AB1F18E7A7004DB8C1 /* start.txt */,
 			);
 			path = "Word Scramble";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				83ED37A41F17B2EF004DB8C1 /* LaunchScreen.storyboard in Resources */,
+				83ED37AC1F18E7A7004DB8C1 /* start.txt in Resources */,
 				83ED37A11F17B2EF004DB8C1 /* Assets.xcassets in Resources */,
 				83ED379F1F17B2EF004DB8C1 /* Main.storyboard in Resources */,
 			);
@@ -302,6 +306,7 @@
 				83ED37AA1F17B2EF004DB8C1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
